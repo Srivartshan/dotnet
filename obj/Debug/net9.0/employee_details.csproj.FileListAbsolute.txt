@@ -1,0 +1,14 @@
+C:\Users\srivartshan.mani\Desktop\employee_details\bin\Debug\net9.0\employee_details.exe
+C:\Users\srivartshan.mani\Desktop\employee_details\bin\Debug\net9.0\employee_details.deps.json
+C:\Users\srivartshan.mani\Desktop\employee_details\bin\Debug\net9.0\employee_details.runtimeconfig.json
+C:\Users\srivartshan.mani\Desktop\employee_details\bin\Debug\net9.0\employee_details.dll
+C:\Users\srivartshan.mani\Desktop\employee_details\bin\Debug\net9.0\employee_details.pdb
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.AssemblyInfoInputs.cache
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.AssemblyInfo.cs
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.csproj.CoreCompileInputs.cache
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.dll
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\refint\employee_details.dll
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.pdb
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\employee_details.genruntimeconfig.cache
+C:\Users\srivartshan.mani\Desktop\employee_details\obj\Debug\net9.0\ref\employee_details.dll
